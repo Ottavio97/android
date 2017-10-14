@@ -33,7 +33,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="android" name="crdroidandroid/android" remote="github" revision="5.1.1" />
+  <project path="android" name="Ottavio97/crdroid" remote="github" revision="5.1.1" />
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
   <project path="art" name="CyanogenMod/android_art" groups="pdk" />
